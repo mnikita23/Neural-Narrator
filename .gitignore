@@ -1,0 +1,81 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+.venv.bak/
+myenv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+*.out
+*.err
+
+# Model files and checkpoints
+*.ckpt
+checkpoints/
+saved_models/
+models/
+
+# Dataset files
+data/
+*.csv
+*.tsv
+*.parquet
+*.json
+*.zip
+*.tar
+*.gz
+
+# Audio recordings
+audio/
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+
+# Output files
+outputs/
+results/
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Build / Dist files
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Cache files
+.cache/
+__MACOSX/
